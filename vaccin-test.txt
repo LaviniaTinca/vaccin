@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.vaccin.Vaccin", "_Entitate__id_entitate": "1", "_Vaccin__nume": "aaa", "_Vaccin__tehnologie": "virus inactiv"}}
